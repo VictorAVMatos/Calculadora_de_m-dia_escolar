@@ -15,9 +15,7 @@ console.log ('Está de Reprovado')
 
 console.log ('Está de Recuperação')
 
-}else (media > 7)
-
-{
+}else {
 
 console.log ('Está aprovado')
 
