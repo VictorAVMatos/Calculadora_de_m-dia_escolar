@@ -7,7 +7,7 @@ if (media < 5) {
 console.log ('Está de Reprovado')
 } else if (media >= 5 && media < 7){
 console.log ('Está de Recuperação')
-} else (media > 7) 
+} else
 {
 console.log ('Está aprovado')
 }    
